@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  algin-align: flex-start;
+  gap: 0.5rem;
+  width: 100%;
+  background: transparent;
+  border: 0;
+  color: #FFFFFF;
+
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.container:hover {
+  opacity: 0.5;
+}
+
+.thumbnail {
+  width: 7rem;
+  height: 5rem;
+  border-radius: 8px;
+}
+
+.videoSelected {
+  background: whitesmoke;
+  padding: 0.25rem;
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.videoSelected h3 {
+  color: black;
+}
+
+.videoSelected svg {
+  color: black;
+}

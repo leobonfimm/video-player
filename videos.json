@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Video Sample 1",
+    "thumbnail": "https://i.ytimg.com/vi/qvwKAyMapy8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_dyhFtF_SQYDVPNwfTRXw0OfJRw",
+    "url": "./src/assets/video-sample-1.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Video Sample 2",
+    "thumbnail": "https://images.unsplash.com/photo-1634176866089-b633f4aec882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+    "url": "./src/assets/video-sample-2.mp4"
+  },
+  {
+    "id": 3,
+    "title": "Video Sample 3",
+    "thumbnail": "https://i.ytimg.com/vi/YE7VzlLtp-4/maxresdefault.jpg",
+    "url": "./src/assets/video-sample-3.mp4"
+  },
+  {
+    "id": 4,
+    "title": "Video Sample 4",
+    "thumbnail": "https://images.unsplash.com/photo-1519411862549-fcd226e35d10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "url": "./src/assets/video-sample-4.mp4"
+  },
+  {
+    "id": 5,
+    "title": "Video Sample 5",
+    "thumbnail": "https://images.unsplash.com/photo-1567413010197-7b436a170e8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+    "url": "./src/assets/video-sample-5.mp4"
+  }
+]
